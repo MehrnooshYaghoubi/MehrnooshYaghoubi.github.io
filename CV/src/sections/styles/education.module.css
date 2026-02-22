@@ -1,0 +1,196 @@
+.section {
+  padding: 64px 0;
+  background-color: #fafafa;
+  border-top: 1px solid #e0e0e0;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+  color: #202124;
+}
+
+.subtitle {
+  font-size: 0.875rem;
+  margin-bottom: 32px;
+  color: #5f6368;
+  max-width: 800px;
+}
+
+.degreeCard {
+  padding: 32px;
+  margin-bottom: 32px;
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.degreeTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: #202124;
+}
+
+.university {
+  font-size: 1rem;
+  color: #5f6368;
+  margin-bottom: 24px;
+}
+
+.stats {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.statChip {
+  padding: 6px 12px;
+  background-color: #e8f0fe;
+  color: #1967d2;
+  border: 1px solid #d2e3fc;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 0.875rem;
+}
+
+.description {
+  font-size: 0.875rem;
+  line-height: 1.7;
+  color: #3c4043;
+}
+
+.transcriptCard {
+  padding: 32px;
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.transcriptTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: #202124;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 0.9rem;
+  border: 1px solid #dadce0;
+  border-radius: 4px;
+  margin-bottom: 24px;
+}
+
+.searchInput:focus {
+  outline: none;
+  border-color: #1967d2;
+}
+
+.divider {
+  height: 1px;
+  background-color: #e0e0e0;
+  margin-bottom: 16px;
+}
+
+.tableContainer {
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tableHead {
+  position: sticky;
+  top: 0;
+  background-color: #f8f9fa;
+  z-index: 1;
+}
+
+.tableHeadCell {
+  padding: 12px;
+  font-weight: 600;
+  font-size: 0.875rem;
+  color: #202124;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.tableHeadCell.center {
+  text-align: center;
+}
+
+.tableRow {
+  border-bottom: 1px solid #e0e0e0;
+  transition: background-color 0.2s;
+}
+
+.tableRow:hover {
+  background-color: #f8f9fa;
+}
+
+.tableCell {
+  padding: 12px;
+  font-size: 0.875rem;
+  color: #5f6368;
+}
+
+.tableCell.center {
+  text-align: center;
+}
+
+.courseName {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #202124;
+}
+
+.courseName.perfect {
+  font-weight: 600;
+}
+
+.star {
+  color: #fbbc04;
+  font-size: 18px;
+}
+
+.grade {
+  font-weight: 600;
+  color: #202124;
+}
+
+.grade.perfect {
+  font-weight: 700;
+  color: #1e8e3e;
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 48px 0;
+  }
+
+  .stats {
+    flex-direction: column;
+  }
+
+  .tableContainer {
+    overflow-x: auto;
+  }
+
+  .table {
+    min-width: 600px;
+  }
+}

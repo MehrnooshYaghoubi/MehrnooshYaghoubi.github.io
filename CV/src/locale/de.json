@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "Über mich",
+    "education": "Ausbildung",
+    "projects": "Projekte",
+    "experience": "Erfahrung",
+    "skills": "Fähigkeiten",
+    "languages": "Sprachen",
+    "publications": "Veröffentlichungen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "name": "Mehrnoosh Yaghoubi Kalurazi",
+    "title": "Informatikforscherin",
+    "specializations": {
+      "ml": "Maschinelles Lernen",
+      "ai": "Künstliche Intelligenz",
+      "nlp": "Natürliche Sprachverarbeitung"
+    },
+    "description1": "Leidenschaftliche Informatikforscherin mit Spezialisierung auf maschinelles Lernen, künstliche Intelligenz und natürliche Sprachverarbeitung. Mit einer starken Grundlage in computergestützter Intelligenz und fortgeschrittenen Algorithmen widme ich mich der Erweiterung der Grenzen der KI-Forschung.",
+    "description2": "Ich suche derzeit nach Möglichkeiten für Master- und PhD-Programme, um meine Forschungsexpertise zu vertiefen und mit führenden Forschern zusammenzuarbeiten. Mein Ziel ist es, bahnbrechende Arbeiten auf erstklassigen Konferenzen wie CVPR, ICCV und NeurIPS zu veröffentlichen."
+  },
+  "education": {
+    "title": "Ausbildung",
+    "subtitle": "Umfassender Lehrplan mit fortgeschrittenen Themen der Informatik, mit starkem Schwerpunkt auf maschinellem Lernen, künstlicher Intelligenz, Algorithmen und computergestützter Intelligenz.",
+    "degree": "Bachelor of Science in Computer Engineering",
+    "university": "Universität",
+    "perfectScores": "Perfekte Noten",
+    "gpa": "Notendurchschnitt",
+    "coursesAbove": "Kurse (Note > 17)",
+    "transcript": "Akademisches Zeugnis",
+    "search": "Kurse oder Professoren suchen",
+    "courseName": "Kursname",
+    "professor": "Professor",
+    "units": "Einheiten",
+    "grade": "Note"
+  },
+  "projects": {
+    "title": "Projekte & Forschung",
+    "subtitle": "Eine Sammlung von Forschungsprojekten und akademischen Arbeiten, die Expertise in maschinellem Lernen, künstlicher Intelligenz und computergestützter Problemlösung demonstrieren.",
+    "methodsLabel": "Methoden & Technologien",
+    "outcomesLabel": "Ergebnisse"
+  },
+  "experience": {
+    "title": "Erfahrung",
+    "subtitle": "Berufserfahrung in Forschungs-, Entwicklungs- und Lehrrollen mit Schwerpunkt auf maschinellem Lernen und künstlicher Intelligenz."
+  },
+  "skills": {
+    "title": "Technische Fähigkeiten",
+    "subtitle": "Umfassende technische Kompetenz in Programmiersprachen, Machine-Learning-Frameworks und modernen Entwicklungstools."
+  },
+  "languages": {
+    "title": "Sprachen",
+    "subtitle": "Mehrsprachige Kompetenz für effektive Kommunikation und Zusammenarbeit in internationalen Forschungsumgebungen.",
+    "proficiency": "Kompetenz",
+    "native": "Muttersprache",
+    "fluent": "Fließend",
+    "intermediate": "Mittelstufe"
+  },
+  "publications": {
+    "title": "Veröffentlichungen & Konferenzen",
+    "subtitle": "Aktuelle Forschungsarbeiten und Zielveröffentlichungsorte auf führenden KI- und Computer-Vision-Konferenzen.",
+    "researchPapers": "Forschungsarbeiten",
+    "targetConferences": "Zielkonferenzen",
+    "underReview": "In Begutachtung",
+    "inProgress": "In Bearbeitung"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Ich suche aktiv nach Möglichkeiten für Master- und PhD-Programme im Bereich maschinelles Lernen und KI. Kontaktieren Sie mich gerne für Kooperationen, Forschungsdiskussionen oder Anfragen.",
+    "email": "E-Mail",
+    "professionalProfiles": "Professionelle Profile",
+    "copyright": "© 2026 Mehrnoosh Yaghoubi Kalurazi. Alle Rechte vorbehalten."
+  }
+}

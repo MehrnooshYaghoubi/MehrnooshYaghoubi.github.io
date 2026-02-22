@@ -1,0 +1,46 @@
+[
+  {
+    "category": "Programmiersprachen",
+    "icon": "Code",
+    "skills": [
+      { "name": "Python", "level": 95 },
+      { "name": "Java", "level": 85 },
+      { "name": "C++", "level": 80 },
+      { "name": "JavaScript", "level": 75 },
+      { "name": "R", "level": 70 }
+    ]
+  },
+  {
+    "category": "ML/KI Frameworks",
+    "icon": "Psychology",
+    "skills": [
+      { "name": "TensorFlow", "level": 90 },
+      { "name": "PyTorch", "level": 90 },
+      { "name": "Scikit-learn", "level": 85 },
+      { "name": "Keras", "level": 85 },
+      { "name": "Hugging Face", "level": 80 }
+    ]
+  },
+  {
+    "category": "Daten & Datenbanken",
+    "icon": "Storage",
+    "skills": [
+      { "name": "SQL", "level": 85 },
+      { "name": "MongoDB", "level": 75 },
+      { "name": "Pandas", "level": 90 },
+      { "name": "NumPy", "level": 90 },
+      { "name": "PostgreSQL", "level": 80 }
+    ]
+  },
+  {
+    "category": "Tools & Technologien",
+    "icon": "Build",
+    "skills": [
+      { "name": "Git", "level": 90 },
+      { "name": "Docker", "level": 75 },
+      { "name": "Jupyter", "level": 95 },
+      { "name": "Linux", "level": 85 },
+      { "name": "AWS", "level": 70 }
+    ]
+  }
+]

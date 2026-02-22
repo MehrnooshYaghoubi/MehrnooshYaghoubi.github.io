@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "About",
+    "education": "Education",
+    "projects": "Projects",
+    "experience": "Experience",
+    "skills": "Skills",
+    "languages": "Languages",
+    "publications": "Publications",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Mehrnoosh Yaghoubi Kalurazi",
+    "title": "Computer Science Researcher",
+    "specializations": {
+      "ml": "Machine Learning",
+      "ai": "Artificial Intelligence",
+      "nlp": "Natural Language Processing"
+    },
+    "description1": "Passionate computer science researcher specializing in Machine Learning, Artificial Intelligence, and Natural Language Processing. With a strong foundation in computational intelligence and advanced algorithms, I am dedicated to pushing the boundaries of AI research and contributing innovative solutions to real-world challenges.",
+    "description2": "Currently pursuing opportunities for Master's and PhD programs where I can deepen my research expertise and collaborate with leading researchers in the field. My ambition is to publish groundbreaking work at top-tier conferences including CVPR, ICCV, and NeurIPS, contributing to the advancement of computer vision, machine learning, and AI systems."
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Comprehensive curriculum covering advanced topics in Computer Science, with strong emphasis on Machine Learning, Artificial Intelligence, Algorithms, and Computational Intelligence. Consistently demonstrated excellence across core and specialized courses.",
+    "degree": "Bachelor of Science in Computer Engineering",
+    "university": "University Name",
+    "perfectScores": "Perfect Scores",
+    "gpa": "GPA",
+    "coursesAbove": "Courses (Grade > 17)",
+    "transcript": "Academic Transcript",
+    "search": "Search courses or professors",
+    "courseName": "Course Name",
+    "professor": "Professor",
+    "units": "Units",
+    "grade": "Grade"
+  },
+  "projects": {
+    "title": "Projects & Research",
+    "subtitle": "A collection of research projects and academic work demonstrating expertise in machine learning, artificial intelligence, and computational problem-solving.",
+    "methodsLabel": "Methods & Technologies",
+    "outcomesLabel": "Outcomes"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Professional experience in research, development, and teaching roles focused on machine learning and artificial intelligence."
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "subtitle": "Comprehensive technical proficiency across programming languages, machine learning frameworks, and modern development tools."
+  },
+  "languages": {
+    "title": "Languages",
+    "subtitle": "Multilingual proficiency enabling effective communication and collaboration in international research environments.",
+    "proficiency": "Proficiency",
+    "native": "Native",
+    "fluent": "Fluent",
+    "intermediate": "Intermediate"
+  },
+  "publications": {
+    "title": "Publications & Conferences",
+    "subtitle": "Current research work and target publication venues at premier AI and computer vision conferences.",
+    "researchPapers": "Research Papers",
+    "targetConferences": "Target Conferences",
+    "underReview": "Under Review",
+    "inProgress": "In Progress"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "I'm actively seeking opportunities for Master's and PhD programs in Machine Learning and AI. Feel free to reach out for collaborations, research discussions, or inquiries.",
+    "email": "Email",
+    "professionalProfiles": "Professional Profiles",
+    "copyright": "© 2026 Mehrnoosh Yaghoubi Kalurazi. All rights reserved."
+  }
+}
